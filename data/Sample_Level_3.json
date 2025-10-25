@@ -8,13 +8,13 @@
     "percentToQualify": "55",
     "records": [
         {
-            "user": "",
+            "user": "no one",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 
+            "hz": 0
         },
         {
-            "user": "",
+            "user": "no one",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": ,
             "hz": 120
