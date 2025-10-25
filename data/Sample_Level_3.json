@@ -1,23 +1,11 @@
 {
-    "id": 49576382,
-    "name": "Generic wave",
+    "id": 26681070,
+    "name": "Generic Wave",
     "author": "Pennutoh",
-    "creators": ["Solo_Creator"],
+    "creators": [Pennutoh],
     "verifier": "Habzsolt",
     "verification": "https://www.youtube.com/watch?v=SGgcO2x2Qvk",
     "percentToQualify": "55",
     "records": [
-        {
-            "user": "no one",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 0
-        },
-        {
-            "user": "no one",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": ,
-            "hz": 120
-        }
     ]
 }
