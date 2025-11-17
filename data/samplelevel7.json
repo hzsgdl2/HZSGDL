@@ -1,0 +1,18 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "DivadGD",
+    "verification": "https://www.youtube.com/watch?v=dDUy1TJavzw",
+    "percentToQualify": "52",
+"records": [
+        {
+            "user": "PinguGD",
+            "link": "https://www.youtube.com/watch?v=btYXz7YAoi4&t=1s",
+            "percent": 100,
+            "hz": 44
+        }
+    ]
+}  
+    
