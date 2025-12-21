@@ -1,1 +1,18 @@
-
+{
+    "id": 8147005,
+    "name": "Down Bass",
+    "author": "Spectra",
+    "creators": [],
+    "verifier": "PinguGD",
+    "verification": "https://www.youtube.com/watch?v=lpkTo8sTNs0",
+    "percentToQualify": "68",
+"records": [
+        {
+            "user": "DivadGD",
+            "link": "https://www.youtube.com/watch?v=5d2w8ugSx60",
+            "percent": 100,
+            "hz": 44
+        }
+    ]
+}  
+    
