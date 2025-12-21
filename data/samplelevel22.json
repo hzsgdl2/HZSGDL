@@ -1,0 +1,22 @@
+{
+    "id": 4444,
+    "name": "cataclysm",
+    "author": "GGboy",
+    "creators": ["GGboy"],
+    "verifier": "divadGD",
+    "verification": "https://www.youtube.com/watch?v=GPPQYcDJACA",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [  
+        {"user": "onekletGD",
+            "link": "",
+            "percent": 100,
+            "hz": 44
+        },  
+        {"user": "habzsolt",
+            "link": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+            "percent": 100,
+            "hz": 0
+        }
+            ]
+}
